@@ -1,1 +1,5 @@
-# HeteroCraft
+- **HeteroCraft Studio**, a organization of Minecraft and *coding*.
+- [Visit our website](https://www.heterocraft.com/) : https://www.heterocraft.com/
+- We are also a *Minecraft Server organization*.
+   - Why don't u choose **HeteroCraft WAR Server** ?
+- @HeteroCraft Studio
